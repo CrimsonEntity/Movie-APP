@@ -40,3 +40,5 @@ const PORT = 3001;
 app.listen(PORT, () => {
     console.info(' Server runnig on PORT 3001');
 });
+
+//crear CRUD
